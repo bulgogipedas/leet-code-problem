@@ -7,4 +7,5 @@ class Solution:
             if buy_prices > p:
                 buy_prices = p
             profit = max(profit, p - buy_prices)
+
         return profit
