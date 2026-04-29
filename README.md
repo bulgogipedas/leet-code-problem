@@ -4,15 +4,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/bulgogipedas/leet-code-problem/tree/master/0189-rotate-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0189-rotate-array](https://github.com/bulgogipedas/leet-code-problem/tree/master/0189-rotate-array) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0189-rotate-array](https://github.com/bulgogipedas/leet-code-problem/tree/master/0189-rotate-array) |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
