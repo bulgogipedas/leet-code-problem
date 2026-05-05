@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/bulgogipedas/leet-code-problem/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/bulgogipedas/leet-code-problem/tree/master/0189-rotate-array) |
@@ -20,11 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/bulgogipedas/leet-code-problem/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/bulgogipedas/leet-code-problem/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
