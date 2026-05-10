@@ -30,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/bulgogipedas/leet-code-problem/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bulgogipedas/leet-code-problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/bulgogipedas/leet-code-problem/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/bulgogipedas/leet-code-problem/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
